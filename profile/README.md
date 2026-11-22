@@ -1,12 +1,6 @@
-## I'm Cache Rat!
+# I'm Cache Rat!
+Individual developer/streamer making shit for fun.
 
-<!--
+<img width="500" height="50" alt="image" src="https://github.com/user-attachments/assets/709eedcb-0e31-4b25-b247-5aa5f771e583" />
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+All art is either done by me or [Emoi](https://www.tumblr.com/emoooii).
